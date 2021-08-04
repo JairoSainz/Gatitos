@@ -1,0 +1,17 @@
+div.header{
+	background-color: #F08080;
+}
+img{
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	width: 840px;
+	height: 454px;
+}
+footer{
+	margin-top: 2em;
+	padding: 1em;
+	width: 100%;
+	background: #F08080;
+	text-align: center;
+}
